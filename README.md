@@ -2,6 +2,8 @@
 
 This project aims to analyse a digital music store database using SQL, providing stakeholders with valuable insights for decision making. 
 
+Tools used: MySQL
+
 𝐓𝐚𝐛𝐥𝐞𝐬 𝐔𝐬𝐞𝐝 :
 • album2
 • artist
